@@ -1,7 +1,7 @@
 # MapFinance – Online Personal Finance Management Platform
 
 
-##Website URL - https://java-project-frontend-amber.vercel.app/
+ **Website URL** - https://java-project-frontend-amber.vercel.app/
 
 ## 1. Project Overview
 
